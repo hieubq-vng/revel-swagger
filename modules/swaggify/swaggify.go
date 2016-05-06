@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/go-openapi/spec"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/spec"
+	"github.com/hieubq-vng/revel-swagger/modules/common"
 	"github.com/revel/cmd/harness"
 	"github.com/revel/revel"
-	"github.com/waiteb3/revel-swagger/modules/common"
 )
 
 var APIs = make(map[string]*spec.Swagger)

@@ -7,7 +7,7 @@ First grab Revel, the modules, and swagger-spec library
 ```
 go get github.com/revel/cmd/revel
 go get github.com/waiteb3/revel-swagger/modules/...
-go get github.com/go-swagger/go-swagger/spec
+go get github.com/go-openapi/spec
 ```
 
 ### [SwaggerAPI](modules/swaggerapi)

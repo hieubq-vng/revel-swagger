@@ -1,8 +1,8 @@
 package controllers
 
 import (
+	_ "github.com/hieubq-vng/revel-swagger/modules/swaggerapi"
 	"github.com/revel/revel"
-	_ "github.com/waiteb3/revel-swagger/modules/swaggerapi"
 )
 
 type SwaggerAPI struct {

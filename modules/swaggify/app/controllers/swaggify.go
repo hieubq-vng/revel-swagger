@@ -1,10 +1,10 @@
 package contollers
 
 import (
+	"github.com/hieubq-vng/revel-swagger/modules/common"
+	"github.com/hieubq-vng/revel-swagger/modules/swaggify"
 	"github.com/revel/modules/static/app/controllers"
 	"github.com/revel/revel"
-	"github.com/waiteb3/revel-swagger/modules/common"
-	"github.com/waiteb3/revel-swagger/modules/swaggify"
 )
 
 type Swaggify struct {

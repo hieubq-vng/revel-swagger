@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/go-openapi/spec"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/spec"
+	"github.com/hieubq-vng/revel-swagger/modules/common"
 	"github.com/revel/revel"
-	"github.com/waiteb3/revel-swagger/modules/common"
 )
 
 // the extension for defined revel controller actions on swagger paths
