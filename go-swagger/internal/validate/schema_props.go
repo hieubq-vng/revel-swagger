@@ -17,9 +17,9 @@ package validate
 import (
 	"reflect"
 
-	"github.com/go-swagger/go-swagger/errors"
-	"github.com/go-swagger/go-swagger/spec"
-	"github.com/go-swagger/go-swagger/strfmt"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/errors"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/spec"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/strfmt"
 )
 
 type schemaPropsValidator struct {

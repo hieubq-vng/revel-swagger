@@ -18,11 +18,11 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/go-swagger/go-swagger/errors"
-	"github.com/go-swagger/go-swagger/httpkit"
-	"github.com/go-swagger/go-swagger/spec"
-	"github.com/go-swagger/go-swagger/strfmt"
-	"github.com/go-swagger/go-swagger/swag"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/errors"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/httpkit"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/spec"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/strfmt"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/swag"
 )
 
 type typeValidator struct {

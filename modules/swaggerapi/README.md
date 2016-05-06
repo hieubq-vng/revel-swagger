@@ -9,7 +9,7 @@ about the revel project.
 ```
 go get github.com/revel/cmd/revel
 go get github.com/waiteb3/revel-swagger/...
-go get github.com/go-swagger/go-swagger/spec
+go get github.com/hieubq-vng/revel-swagger/go-swagger/spec
 ```
 
 ### Adding a SwaggerAPI route and controller

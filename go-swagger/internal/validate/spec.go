@@ -21,10 +21,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/go-swagger/go-swagger/errors"
-	"github.com/go-swagger/go-swagger/jsonpointer"
-	"github.com/go-swagger/go-swagger/spec"
-	"github.com/go-swagger/go-swagger/strfmt"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/errors"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/jsonpointer"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/spec"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/strfmt"
 )
 
 // SpecValidator validates a swagger spec

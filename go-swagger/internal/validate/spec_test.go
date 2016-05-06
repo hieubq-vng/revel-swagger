@@ -18,9 +18,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/go-swagger/go-swagger/internal/testing/petstore"
-	"github.com/go-swagger/go-swagger/spec"
-	"github.com/go-swagger/go-swagger/strfmt"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/internal/testing/petstore"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/spec"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/strfmt"
 	"github.com/stretchr/testify/assert"
 )
 

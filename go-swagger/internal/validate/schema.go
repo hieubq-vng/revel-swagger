@@ -17,9 +17,9 @@ package validate
 import (
 	"reflect"
 
-	"github.com/go-swagger/go-swagger/spec"
-	"github.com/go-swagger/go-swagger/strfmt"
-	"github.com/go-swagger/go-swagger/swag"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/spec"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/strfmt"
+	"github.com/hieubq-vng/revel-swagger/go-swagger/swag"
 )
 
 var specSchemaType = reflect.TypeOf(&spec.Schema{})
