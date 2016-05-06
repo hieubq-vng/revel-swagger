@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/go-swagger/go-swagger/spec"
+	"github.com/go-openapi/spec"
 	"github.com/revel/revel"
 	"github.com/waiteb3/revel-swagger/modules/common"
 )
